@@ -1,0 +1,10 @@
+2a60927148abd1d33b818b535e306557
+::res://::1688211456
+icon.svg::CompressedTexture2D::8481057135326374049::1688211277::1688211287::1::::<><>::
+::res://Graphics/::1688211419
+icon.png::CompressedTexture2D::2324284557331696511::1688208493::1688211587::1::::<><>::
+script.gd::GDScript::-1::1688209420::0::1::::<>Node3D<>::
+::res://scripts/::1688211574
+script.gd::GDScript::-1::1688211543::0::1::::<>Node3D<>::
+SHOW_godot_discord.tscn::PackedScene::6151711325100155243::1688210298::0::1::::<><>::uid://3twq4uj0wle<>uid://4ukty6jywe0l
+zero.tscn::PackedScene::2077406429487193725::1688211543::0::1::::<><>::res://Scripts/script.gd
