@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://xgxvbl6qd0wo"]
+
+[ext_resource type="Script" path="res://Scripts/script.gd" id="1_2mbd0"]
+
+[node name="Zero_y" type="Node3D" node_paths=PackedStringArray("Zero_y", "Zero_x")]
+script = ExtResource("1_2mbd0")
+Zero_y = NodePath(".")
+Zero_x = NodePath("Zero_x")
+
+[node name="Zero_x" type="Node3D" parent="."]
+
+[node name="Camera3D" type="Camera3D" parent="Zero_x"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 2.22118)
